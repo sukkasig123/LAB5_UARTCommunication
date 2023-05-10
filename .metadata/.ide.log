@@ -1,0 +1,38 @@
+2023-05-11 01:09:06,776 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,584x276,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-05-11 02:59:18,581 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 644887280 Bytes (1073741824)
+2023-05-11 02:59:18,796 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-11 02:59:18,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-05-11 02:59:18,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-05-11 02:59:18,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-11 02:59:18,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-11 02:59:18,798 [INFO] CodeGenerator:793 - code generatio: config db path: C:/Users/uSEr/.stm32cubemx/databases/DB.6.0.70/db/
+2023-05-11 02:59:19,073 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\MXTmpFiles\license.tmp_save
+2023-05-11 02:59:19,178 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\MXTmpFiles\license.tmp
+2023-05-11 02:59:19,220 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\MXTmpFiles\gpio.tmp_save
+2023-05-11 02:59:19,316 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\MXTmpFiles\gpio.tmp
+2023-05-11 02:59:19,389 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Src\stm32f4xx_it.c_save
+2023-05-11 02:59:19,630 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\Core\Src\stm32f4xx_it.c
+2023-05-11 02:59:19,640 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Inc\stm32f4xx_it.h_save
+2023-05-11 02:59:19,721 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\Core\Inc\stm32f4xx_it.h
+2023-05-11 02:59:19,743 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Src\stm32f4xx_hal_msp.c_save
+2023-05-11 02:59:19,862 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\Core\Src\stm32f4xx_hal_msp.c
+2023-05-11 02:59:19,871 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\MXTmpFiles\system.tmp_save
+2023-05-11 02:59:19,942 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\MXTmpFiles\system.tmp
+2023-05-11 02:59:19,964 [INFO] CodeEngine:311 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-05-11 02:59:20,084 [INFO] CodeEngine:335 - Generated code: D:\git\LAB5-main\l5\Core\Inc\stm32f4xx_hal_conf.h
+2023-05-11 02:59:20,130 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Inc\main.h_save
+2023-05-11 02:59:20,268 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\Core\Inc\main.h
+2023-05-11 02:59:20,289 [INFO] CodeEngine:255 - oldGeneratedFile, D:\git\LAB5-main\l5\Core\Src\main.c_save
+2023-05-11 02:59:20,428 [INFO] CodeEngine:279 - Generated code: D:\git\LAB5-main\l5\Core\Src\main.c
+2023-05-11 02:59:21,322 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 385mS.
+2023-05-11 02:59:21,326 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-11 02:59:21,654 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-05-11 02:59:21,663 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-05-11 02:59:21,676 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-05-11 02:59:21,684 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-05-11 02:59:21,699 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-05-11 02:59:21,713 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-05-11 02:59:21,723 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-05-11 02:59:23,395 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2069mS.
+2023-05-11 02:59:23,395 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-11 02:59:23,398 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.

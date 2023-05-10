@@ -1,0 +1,6 @@
+connections/org.eclipse.remote.serial.core.connectionType/9600_8_N2/serial.baudRate=6
+connections/org.eclipse.remote.serial.core.connectionType/9600_8_N2/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/9600_8_N2/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/9600_8_N2/serial.portName=COM5
+connections/org.eclipse.remote.serial.core.connectionType/9600_8_N2/serial.stopBits=1
+eclipse.preferences.version=1
